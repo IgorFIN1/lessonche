@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  background-color: azure;
+  width: 100%;
+}
+h1 {
+  font-size: 26px;
+  text-align: center;
+}
+p {
+  font-size: 18px;
+  text-align: center;
+}
+em {
+  color: indianred;
+  font-size: 26px;
+}
+.table {
+  display: flex;
+  justify-content: center;
+  
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse:collapse;
+  width: 100%;
+  height: 100ch;
+}
+td, th {
+
+}
+
+table {
+  width: 650px;
+  background-color: rgb(237, 212, 180);
+}
+.namber {
+  padding: 15px 25px;
+  
+}
+.name {
+  padding: 15px 255px;
+}
+.menu_1 {
+  padding: 15px 25px;
+}
+.menu_2 {
+  padding: 15px 25px;
+}
+.menu_3 {
+  padding: 15px 25px;
+}
+.menu_4 {
+  padding: 15px 25px;
+  text-align: center;
+}
